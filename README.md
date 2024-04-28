@@ -1,1 +1,1 @@
-# Spendify-Expense-Tracker
+# Spendify — Expense Tracker
