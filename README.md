@@ -42,6 +42,7 @@ Spendify follows a structured layout to enhance user navigation:
 
 ## DEMO
 
+[Visit Spendify Website](https://spendify-five.vercel.app)
 
 ## Contribution
 
