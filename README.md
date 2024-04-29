@@ -1,6 +1,8 @@
 # Spendify
 
-Spendify is a modern expense tracker web application built with Next.js, React, and Tailwind CSS. It provides users with a seamless experience to manage their budgets and track expenses efficiently. With Spendify, you can effortlessly monitor your spending habits, set budgets, and stay on top of your financial goals.
+Spendify is a modern expense tracker web application built with Next.js, React, and Tailwind CSS. It provides users with a seamless experience to manage their budgets and track expenses efficiently. With Spendify, you can effortlessly monitor your spending habits, set budgets, and stay on top of your financial goals. Spendify is designed to be responsive across all devices, ensuring a consistent experience whether you're using it on desktop, tablet, or mobile.
+
+![Spendify Mockup](/public/mockup.svg)
 
 ## Features
 
