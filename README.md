@@ -27,7 +27,7 @@ Spendify follows a structured layout to enhance user navigation:
   - **Budgets Page**: Allows you to add, remove, and edit budgets.
   - **Expenses Page**: Lists all your expenses, giving you the option to remove them.
 
-![Landing Page](/landingpage.jpg)
+![Landing Page](/public/landing.png)
 
 ## Technologies Used
 
