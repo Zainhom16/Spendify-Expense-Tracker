@@ -44,4 +44,5 @@ function BudgetItem({ budget }) {
     </Link>
   );
 }
+export default BudgetItem;
 
