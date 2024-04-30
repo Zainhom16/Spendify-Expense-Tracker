@@ -27,6 +27,7 @@ Spendify follows a structured layout to enhance user navigation:
   - **Budgets Page**: Allows you to add, remove, and edit budgets.
   - **Expenses Page**: Lists all your expenses, giving you the option to remove them.
 
+
 ![Landing Page](/public/landing.png)
 
 ## Technologies Used
@@ -39,6 +40,7 @@ Spendify follows a structured layout to enhance user navigation:
 - **Drizzle ORM Studio**: Assisted in database management and interactions.
 - **Neon**: Used as the PostgreSQL database for storing user data and financial information.
 - **npmjs Emoji Packer Package**: For adding delightful emojis throughout the application, enhancing user experience.
+- **Recharts**: For creating the Bar Chart.
 
 ## DEMO
 
